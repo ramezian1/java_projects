@@ -1,8 +1,13 @@
-# java_workspace
-
 Here is a few fun java programs I have coded myself showcasing my work and experience with Java.
-They are all under 'src' folder. 
+You will find them inside the 'src' folder. 
 
+
+
+
+
+
+
+---------------------------
 Copyright Notice:
 
 Robert Mezian. 2024.
