@@ -23,22 +23,21 @@ The projects within this repository are structured to highlight:
 
 ## 📂 Projects Included
 
-* **Arrays:**
+* **Arrays**
     * `Arrays.java`: Demonstrates basic array operations.
     * `PushMethod.java`: Example of adding elements to an array.
     * `SelectionSort.java`: Implementation of the Selection Sort algorithm.
     * `binarytohex.java`: Converts binary numbers to hexadecimal.
 * **Beginner_Java:**
-    * `Accounts.java`
-    * `RegisterPractice.java`
-    * `Timezone.java`
+    * `Accounts.java`:
+    * `RegisterPractice.java`:
+    * `Timezone.java`:
 
-* **Games_Methods:**
-    * `PalindromeChecker.java`: Checks if a string is a palindrome using recursion method.
-    * `RandomNumberGame.java`: A simple number guessing game using random number generator.
-    * `blackjack.java`: Implementation of the Blackjack card game.
-* **Phonebook:**
-    * `Phonebook.java`: A intuitive phonebook application that lets the user add, delete, save, or retrieve contacts from a txt file. 
+* **Blackjack**
+    * `BlackjackGame.java`: This Java program simulates a basic version of the Blackjack card game. Players can place bets, hit, stand, and double down against a dealer. The game includes insurance functionality and handles Blackjack payouts.
+      
+* **Phonebook**
+    * `Phonebook.java`: This repository contains a basic command-line phonebook application implemented in Java. This Java program allows users to manage a simple phonebook stored in a text file. Users can add, search for, and delete contacts.
 
 ## 🚀 Getting Started
 
